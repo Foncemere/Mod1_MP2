@@ -7,3 +7,6 @@ Then a flatlist as requested to show all the ages it went through. renderItem wi
  
 Note I did not do a new age variable as it is just easier to put it directly, and there’s no need for it.
 The <Name /> will appear only if the kid reaches the age 4 or up.
+![image](https://user-images.githubusercontent.com/61183588/112121044-bf727900-8bf9-11eb-8620-999b96cfc24e.png)
+![image](https://user-images.githubusercontent.com/61183588/112121056-c600f080-8bf9-11eb-83d5-3e47dbe17194.png)
+![image](https://user-images.githubusercontent.com/61183588/112121075-cb5e3b00-8bf9-11eb-9623-a389af371c60.png)
